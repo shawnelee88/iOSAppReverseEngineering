@@ -11,4 +11,4 @@ The book consists of 4 parts, i.e. concepts, tools, theories and practices. The 
 
 For more info, please visit our [official forum](http://bbs.iosre.com) and follow [@iOSAppRE](http://twitter.com/iOSAppRE). Thank you!
 ---
-If you find the book worth buying after reading through it, take a look at [here](https://www.lulu.com/author/revenue.php) :)
+If you find the book worth buying after reading through it, take a look at [here](http://www.lulu.com/shop/zishe-sha/ios-app-reverse-engineering/ebook/product-22147315.html) :)
