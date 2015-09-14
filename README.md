@@ -1,4 +1,4 @@
-This is my gift to the jailbreak community as a 5-year n00b, enjoy!
+As a 5-year n00b, this is my gift to the jailbreak community, enjoy!
 ---
 iOS App Reverse Engineering is the world's 1st book of very detailed iOS App reverse engineering skills, targeting 4 kinds of readers:
 * iOS enthusiasts;
@@ -11,4 +11,4 @@ The book consists of 4 parts, i.e. concepts, tools, theories and practices. The 
 
 For more info, please visit our [official forum](http://bbs.iosre.com) and follow [@iOSAppRE](http://twitter.com/iOSAppRE). Thank you!
 ---
-If you find the book worth buying after reading through it, take a look at [here](http://www.lulu.com/shop/zishe-sha/ios-app-reverse-engineering/ebook/product-22147315.html) :)
+If you find the book worth buying after reading through it, how about taking a look at [here](http://www.lulu.com/shop/zishe-sha/ios-app-reverse-engineering/ebook/product-22147315.html) and buying one? :)
